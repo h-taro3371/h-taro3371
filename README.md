@@ -9,10 +9,12 @@
 
 ---
 
-### ⚡ Quick About Me
-* 💼 **Studying:** Vocational training program focused on practical web development (Java, PHP, JavaScript).
-* 🛠️ **Building:** Full-stack web apps, e-commerce platforms, and management systems.
-* 🎯 **Goal:** Becoming a skilled software developer who delivers clean and efficient code.
+### ⚡ About 
+<p>初めまして！</p>
+<p>職業訓練にて半年間プログラミングを学び、現在はJava、PHP、JavaScriptなどを中心としたWebアプリケーションの開発を個人的にやってます。</p>
+<p>今後はPythonの学習も進め、より幅広い開発ができるようスキルを広げているところです。</p>
+<p>趣味ではUnreal Engine 5を使用したゲーム制作にも挑戦しており、ものづくりの楽しさを日々実感しています。</p>
+<p>クリーンで効率的なコードを書ける、熟練したソフトウェア開発者になることが目標です。よろしくお願いいたします！</p>
 
 ---
 
@@ -37,6 +39,8 @@
 ### ✨ Featured Collection
 
 **[ウォーターパーク](https://github.com/h-taro3371/waterpark)**
+
+**職業訓練の卒業制作として、4名のチームで開発した飲料水のECサイト（および管理システム）です。新商品、おすすめ商品、ランキング機能、販売機能などを備えたECサイトです。 全体のメインとしてJava(Spring Boot/JSP)を採用し、データ解析や一部の高度な機能としてPython(Django)を組み込んだ構成となっています。**
 
 <div align="center">
   <table border="0" cellpadding="10">
