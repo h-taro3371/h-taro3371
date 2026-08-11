@@ -40,21 +40,19 @@
 ### ✨ Featured Collection
 
 <details open>
-  <summary>クリックして waterpark の商品一覧を見る</summary>
+  <summary>クリックして waterpark の画面を見る</summary>
 
   <div align="center">
     <table>
       <tr>
-        <td><img src="https://raw.githubusercontent.com/h-taro3371/waterpark/main/images/products/water_01.jpg" width="300" alt="新潟の天然水" /></td>
-        <td><img src="https://raw.githubusercontent.com/h-taro3371/waterpark/main/images/products/water_02.jpg" width="300" alt="沖縄の海洋深層水" /></td>
-        <td><img src="https://raw.githubusercontent.com/h-taro3371/waterpark/main/images/products/water_03.jpg" width="300" alt="京都の仕込み水" /></td>
-        <td><img src="https://raw.githubusercontent.com/h-taro3371/waterpark/main/images/products/hokkaido_01.jpg" width="300" alt="北海道セレクション" /></td>
+        <td><img src="https://raw.githubusercontent.com/h-taro3371/h-taro3371/main/images/products/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202026-08-11%20235428.png" width="300" alt="画像1" /></td>
+        <td><img src="https://raw.githubusercontent.com/h-taro3371/h-taro3371/main/images/products/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202026-08-11%20235606.png" width="300" alt="画像2" /></td>
+        <td><img src="https://raw.githubusercontent.com/h-taro3371/h-taro3371/main/images/products/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202026-08-11%20235637.png" width="300" alt="画像3" /></td>
+        <td><img src="https://raw.githubusercontent.com/h-taro3371/h-taro3371/main/images/products/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202026-08-11%20235731.png" width="300" alt="画像4" /></td>
       </tr>
     </table>
   </div>
-  <em>（PC等では横スクロールバーが表示され、スマホではフリック操作で見ることができます）</em>
 </details>
-
 ※画像URLは仮のものです。実際にプッシュしたリポジトリ内の画像パスに書き換えてください。
   * An e-commerce & management web application built with Java, PHP, and relational databases.
 
