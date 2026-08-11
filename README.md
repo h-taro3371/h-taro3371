@@ -37,9 +37,6 @@
 ### 🚀 Featured Project
 
 * **[waterpark](https://github.com/h-taro3371/waterpark)**
-### ✨ Featured Collection
-
-<details open>
   <summary>クリックして waterpark の画面を見る</summary>
 
   <div align="center">
@@ -53,8 +50,6 @@
     </table>
   </div>
 </details>
-※画像URLは仮のものです。実際にプッシュしたリポジトリ内の画像パスに書き換えてください。
-  * An e-commerce & management web application built with Java, PHP, and relational databases.
 
 ---
 
