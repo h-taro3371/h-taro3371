@@ -26,7 +26,7 @@
 | :--- | :--- |
 | **Languages** | `Java` `PHP` `JavaScript` `HTML5` `CSS3` |
 | **Frameworks & DB** | `Spring` `MySQL` |
-| **Tools** | `Git` `GitHub` `VS Code` `UE5` |
+| **Tools** | `Git` `GitHub` `VS Code` `Unreal Engine 5` |
 
 </div>
 
