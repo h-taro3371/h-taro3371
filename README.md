@@ -36,6 +36,37 @@
 
 ---
 
+**[The Golden Ratio](https://github.com/h-taro3371/TheGoldenRatio)**
+
+**職業訓練の個人制作として開発した、高級感のあるオンラインカジノ風Webアプリケーションです。ブラックジャック、ルーレット、ポーカーなどの本格的なカジノゲームに加え、ユーザー認証、ウォレットによるポイント管理、ランキング機能を備えています。PHP（PDO）とMySQLによる堅牢なバックエンドに、JavaScriptによるスムーズなゲーム・アニメーション演出を組み合わせて実装しました。**
+
+<div align="center">
+  <table border="0" cellpadding="10">
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/h-taro3371/h-taro3371/main/images/screenshot/image_645dd3.jpg" width="450" alt="ゲーム選択メニュー画面" />
+        <br><sub><b>ゲーム選択メニュー</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/h-taro3371/h-taro3371/main/images/screenshot/image_640bda.jpg" width="450" alt="ルーレットゲーム画面" />
+        <br><sub><b>ルーレット（回転・ベット演出）</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/h-taro3371/h-taro3371/main/images/screenshot/image_640b3f.jpg" width="450" alt="ポーカーゲーム画面" />
+        <br><sub><b>ポーカー（AI対戦・役判定）</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/h-taro3371/h-taro3371/main/images/screenshot/image_6407a0.jpg" width="450" alt="ログイン画面" />
+        <br><sub><b>ログイン画面</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ### ✨ Featured Collection
 
 **[ウォーターパーク](https://github.com/h-taro3371/waterpark)**
