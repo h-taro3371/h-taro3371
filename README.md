@@ -44,22 +44,24 @@
   <table border="0" cellpadding="10">
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/h-taro3371/h-taro3371/main/images/screenshot/image_645dd3.jpg" width="450" alt="ゲーム選択メニュー画面" />
+        <img src="https://raw.githubusercontent.com/h-taro3371/h-taro3371/main/images/screenshot/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202026-08-15%20172248.png" width="450" alt="ログイン画面" />
+        <br><sub><b>ログイン画面</b></sub>
+      </td>
+    </td>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/h-taro3371/h-taro3371/main/images/screenshot/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202026-08-15%20171608.png" width="450" alt="ゲーム選択メニュー画面" />
         <br><sub><b>ゲーム選択メニュー</b></sub>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/h-taro3371/h-taro3371/main/images/screenshot/image_640bda.jpg" width="450" alt="ルーレットゲーム画面" />
+        <img src="https://raw.githubusercontent.com/h-taro3371/h-taro3371/main/images/screenshot/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202026-08-15%20172032.png" width="450" alt="ルーレットゲーム画面" />
         <br><sub><b>ルーレット（回転・ベット演出）</b></sub>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/h-taro3371/h-taro3371/main/images/screenshot/image_640b3f.jpg" width="450" alt="ポーカーゲーム画面" />
+        <img src="https://raw.githubusercontent.com/h-taro3371/h-taro3371/main/images/screenshot/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202026-08-15%20172122.png" width="450" alt="ポーカーゲーム画面" />
         <br><sub><b>ポーカー（AI対戦・役判定）</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/h-taro3371/h-taro3371/main/images/screenshot/image_6407a0.jpg" width="450" alt="ログイン画面" />
-        <br><sub><b>ログイン画面</b></sub>
       </td>
     </tr>
   </table>
