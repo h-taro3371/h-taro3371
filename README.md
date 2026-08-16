@@ -38,7 +38,7 @@
 
 ### ✨ Featured Collection
 
-**[The Golden Ratio](https://github.com/h-taro3371/TheGoldenRatio)**
+**[The Golden Ratio](https://github.com/h-taro3371/casino-web-app)**
 
 **職業訓練の個人制作として開発した、高級感のあるオンラインカジノ風Webアプリケーションです。ブラックジャック、ルーレット、ポーカーなどの本格的なカジノゲームに加え、ユーザー認証、ウォレットによるポイント管理、ランキング機能を備えています。PHP（PDO）とMySQLによる堅牢なバックエンドに、JavaScriptによるスムーズなゲーム・アニメーション演出を組み合わせて実装しました。**
 
