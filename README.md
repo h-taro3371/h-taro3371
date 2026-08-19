@@ -38,6 +38,12 @@
 
 ### ✨ Featured Collection
 
+**[3D AI Reconstruction Pipeline](https://github.com/h-taro3371/3D-AI-Pipeline.git) 🚀（制作中 / WIP）**
+
+**UE5でのゲーム制作やアセット作成の効率化を目指し、単一の2D画像（人物・オブジェクト）から高品質な3Dメッシュモデル（.obj）を高速生成するローカルAIパイプラインです。TripoSRをベースに、Pythonでの環境構築・エラー修復、背景自動除去（rembg）、Blender APIによる後処理自動化、最終的なUE5連携までを統合するシステムとして開発を進めています。**
+
+---
+
 **[The Golden Ratio](https://github.com/h-taro3371/casino-web-app)**
 
 **2026年3月頃に職業訓練の個人制作として開発した、高級感のあるオンラインカジノ風Webアプリケーションです。ブラックジャック、ルーレット、ポーカーなどの本格的なカジノゲームに加え、ユーザー認証、ウォレットによるポイント管理、ランキング機能を備えています。PHP（PDO）とMySQLによる堅牢なバックエンドに、JavaScriptによるスムーズなゲーム・アニメーション演出を組み合わせて実装しました。**
